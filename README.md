@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @NidhiChaudhary2000
-- 👀 I’m interested in numerous fields such as Data Science and Machine Learning, as well as ROS
-- 🌱 I’m currently learning cloud computing by myself.
+- 👀 I’m interested in numerous fields such as Data Science and Machine Learning
 - 💞️ I’m looking to collaborate on any fun projects
 - 📫 How to reach me: Email me at nidhichaudhary2000@gmail.com
